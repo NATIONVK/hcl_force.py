@@ -3,7 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 import sys
 sys.stdout.write('\x1b]2; ANONYMOUS CYBER™🌻🔥💯\x07')
-os.system('xdg-open https://github.com/U7P4L-IN')
+os.system('xdg-open https://www.facebook.com/share/1JpF7nTTxf/')
 
 def clear():
     if "linux" in sys.platform.lower():os.system("clear")
